@@ -256,8 +256,7 @@ export default {
           Surge2: "surge&ver=2",
         },
         backendOptions: [
-            { value: "https://jth-subconver.herokuapp.com/sub?" },
-            { value: "https://subconver-temp1.koyeb.app/sub?" },
+            { value: "https://subweb.zeabur.app/sub?" }
         ],
         remoteConfig: [
         {
